@@ -4,7 +4,6 @@ def detect_relationships(df, threshold=0.95, uniqueness_threshold=0.9):
     columns = df.columns
 
     for col1 in columns:
-        # Skip ID-like columns (too unique)
         uniqueness_ratio = df[col1].nunique() / len(df)
         if uniqueness_ratio > uniqueness_threshold:
             continue
