@@ -27,25 +27,27 @@ if __name__ == "__main__":
         print(f"\nDataset: {name}")
         print(scores)
     
-        
-    
     print("\n=== RELATIONSHIPS ===\n")
 
-    for name, df in list(cleaned.items())[:3]:  # test on 3 datasets first
-        print(f"\nDataset: {name}")
-    
-        rels = detect_relationships(df)
+    relationships_dict = {}
 
-        for r in rels[:5]:  # show top 5
+    for name, df in cleaned.items():
+        rels = detect_relationships(df)
+        relationships_dict[name] = rels
+
+        print(f"\nDataset: {name}")
+        for r in rels[:5]:
             print(f"{r[0]} → {r[1]} (confidence: {r[2]})")
+        
     
+   
     print("\n=== DATASET MATCHING ===\n")
 
-    query = list(cleaned.keys())[0]
+    query = list(cleaned.keys())[3]  # pick a richer dataset
 
     print(f"Query Dataset: {query}\n")
 
-    matches = rank_datasets(query, cleaned)
+    matches = rank_datasets(query, cleaned, relationships_dict)
 
     for m in matches[:5]:
         print(m)
