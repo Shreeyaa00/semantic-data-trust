@@ -108,6 +108,25 @@ These datasets were selected because they contain heterogeneous schemas, real-wo
 
 
 
+<img width="1918" height="846" alt="image" src="https://github.com/user-attachments/assets/2743ca18-0491-410b-8e49-9ce9983ff110" />
+<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/16c43062-e4b2-47d9-8132-d5c4a0b9c3c8" />
+<img width="1918" height="840" alt="image" src="https://github.com/user-attachments/assets/2d887e9d-c115-4bbd-866b-825e63676ab1" />
+<img width="1912" height="872" alt="image" src="https://github.com/user-attachments/assets/20964278-7c90-4d12-bc03-298c0058fbba" />
+<img width="1913" height="868" alt="image" src="https://github.com/user-attachments/assets/34b7c229-50c8-4f79-8419-cf0686b92c5b" />
+<img width="1902" height="762" alt="image" src="https://github.com/user-attachments/assets/b64ec88f-785e-4500-a965-eff4cf3ae9aa" />
+<img width="1918" height="836" alt="image" src="https://github.com/user-attachments/assets/820ec44b-1e2f-4547-b7aa-e69d542d06f4" />
+<img width="1910" height="841" alt="image" src="https://github.com/user-attachments/assets/5869f1ff-af2c-4ab1-a63c-c6e83d907e90" />
+<img width="1912" height="853" alt="image" src="https://github.com/user-attachments/assets/0dadbbf2-da32-469e-9bda-84602a765639" />
+<img width="1917" height="851" alt="image" src="https://github.com/user-attachments/assets/2613a005-ec08-4306-9734-fed95c4333bd" />
+
+
+
+
+
+
+
+
+
 
 
 
