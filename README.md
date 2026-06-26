@@ -140,7 +140,7 @@ Generate interpretable explanations for dataset recommendations
 ## Running the Project 
 
 1. Clone the repository
-   git clone
+   git clone https://github.com/Shreeyaa00/semantic-data-trust.git
    
 2. Install Dependencies
    pip install -r requirements.txt
