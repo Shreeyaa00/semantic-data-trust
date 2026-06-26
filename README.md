@@ -106,8 +106,7 @@ This project currently uses publicly available New York City Open Data datasets,
 These datasets were selected because they contain heterogeneous schemas, real-world data quality challenges, and rich relational structure.
 
 
-
-
+## Screenshots 
 <img width="1918" height="846" alt="image" src="https://github.com/user-attachments/assets/2743ca18-0491-410b-8e49-9ce9983ff110" />
 <img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/16c43062-e4b2-47d9-8132-d5c4a0b9c3c8" />
 <img width="1918" height="840" alt="image" src="https://github.com/user-attachments/assets/2d887e9d-c115-4bbd-866b-825e63676ab1" />
@@ -120,9 +119,46 @@ These datasets were selected because they contain heterogeneous schemas, real-wo
 <img width="1917" height="851" alt="image" src="https://github.com/user-attachments/assets/2613a005-ec08-4306-9734-fed95c4333bd" />
 
 
+## Future Work 
+
+### Knowledge Graph Construction 
+Transform discovered relationships into a unified semantic knowledge graph 
+
+### Relationship-aware dataset search 
+Incorporate graph-based matching techniques inspired by semantic table discovery research 
+
+### Machine Learning for Semantic Similarity 
+Use an embedding-based representation of columns and datasets to improve matching performance 
+
+## Automated Data Integration 
+Recommend dataset joins and unions based on discovered semantic relationships 
+
+## Explainable Data Discovery 
+Generate interpretable explanations for dataset recommendations 
 
 
+## Running the Project 
 
+1. Clone the repository
+   git clone
+   
+2. Install Dependencies
+   pip install -r requirements.txt
+   
+3. Launch the application
+   streamlit run src/app.py
+
+
+## Research interests 
+This project was developed as a part of my exploration of:
+1. Data Management
+2. Data Discovery
+3. Semantic Data Integration
+4. Data Quality Assessment
+5. Applied Machine Learning
+6. Large-Scale Data Systems
+
+I am particularly interested in how semantic understanding, graph-based methods, and machine learning can be combined to improve data discovery and integration in modern data ecosystems. 
 
 
 
