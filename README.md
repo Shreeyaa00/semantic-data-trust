@@ -130,10 +130,10 @@ Incorporate graph-based matching techniques inspired by semantic table discovery
 ### Machine Learning for Semantic Similarity 
 Use an embedding-based representation of columns and datasets to improve matching performance 
 
-## Automated Data Integration 
+### Automated Data Integration 
 Recommend dataset joins and unions based on discovered semantic relationships 
 
-## Explainable Data Discovery 
+### Explainable Data Discovery 
 Generate interpretable explanations for dataset recommendations 
 
 
